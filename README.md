@@ -85,9 +85,9 @@ O navegador abrirá automaticamente com a interface do sistema.
 
 | arquivo    | produto        | quantidade | preco |
 | ---------- | -------------- | ---------- | ----- |
-| cupom1.jpg | ARROZ TIO JOAO | 1          | 22.90 |
+| cupom1.jpg | PAO            | 1          | 1.90  |
 | cupom1.jpg | LEITE INTEGRAL | 2          | 5.49  |
-| cupom2.jpg | FRANGO FILE    | 1          | 18.70 |
+| cupom2.jpg | ACUCAR         | 1          | 18.70 |
 
 ---
 
